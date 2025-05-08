@@ -1,4 +1,4 @@
-# 🎉 Women's Day Guessing Game 🎉
+#  Women's Day Guessing Game 
 
 Celebrate **International Women's Day** with a fun and educational terminal-based game that highlights the achievements of iconic women leaders! 
 
